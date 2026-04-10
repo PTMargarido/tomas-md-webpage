@@ -1,0 +1,20 @@
+baseURL: https://pmargarido.dev/
+languageCode: pt-pt
+title: Tomás Oliveira
+theme: terminal-resume
+
+params:
+  author: Tomás Oliveira
+  description: Médico de Família · VMER INEM · Hospital Santa Maria
+  
+  social:
+    linkedin: https://linkedin.com/in/joao-tomas-oliveira
+
+menu:
+  main:
+    - name: Resumo
+      url: /#resume
+      weight: 1
+    - name: Contacto
+      url: /#contacto
+      weight: 2
